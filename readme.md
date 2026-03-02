@@ -1,9 +1,9 @@
 - Análise de acompanhamento de vendas com SQL e Excel
 
-- Objetivo
+- Objetivo:
 Criar um dashboard de vendas com os principais indicadores de desempenho e com os principais drivers dos resultados do mês
 
-- Ferramentas utilizadas
+- Ferramentas utilizadas:
 - PostgreSQL
 - pgAdmin
 - Excel (dashboard interativo)
@@ -42,3 +42,4 @@ O dashboard foi desenvolvido no Excel, contendo:
 
 - Sobre o projeto
 Projeto desenvolvido com foco em prática de consultas SQL, análise exploratória de dados e construção de visualizações estratégicas para suporte a tomada de decisão. 
+
